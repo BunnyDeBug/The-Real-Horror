@@ -15,7 +15,7 @@ body {
   text-align: center;
   color: #adadad;
   box-sizing: border-box;
-  cursor: none;
+  cursor: pointer;
   color: #000000;
   overflow: hidden;
 }
@@ -148,3 +148,4 @@ body {
   .hero-title { font-size: 3.5rem; }
 
 }*/
+
